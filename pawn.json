@@ -1,0 +1,14 @@
+{
+	"user": "omsinlnwza007",
+	"repo": "sampctlsvr",
+	"tag": "0.0.1",
+	"entry": "gamemodes/mainsvr.pwn",
+	"output": "gamemodes/mainsvr.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+    	"Y-Less/sscanf",
+		"Southclaws/zcmd"
+	],
+	"local": true
+	
+}
