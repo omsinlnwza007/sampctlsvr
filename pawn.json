@@ -3,9 +3,10 @@
 	"repo": "sampctlsvr",
 	"tag": "0.0.1",
 	"entry": "mainsvr.pwn",
-	"output": "gamemodes/amx/mainsvr.amx",
+	"output": "gamemodes/mainsvr.amx",
 	"dependencies": [
 		"pawn-lang/samp-stdlib",
+		"pBlueG/SA-MP-MySQL",
     	"Y-Less/sscanf",
 		"Southclaws/zcmd"
 	],
